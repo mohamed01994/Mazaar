@@ -1,0 +1,1185 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7 " lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="en"><![endif]-->
+<!--[if gt IE 8]><html class="no-js ie9" lang="en"><![endif]-->
+<html lang="en">
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<head>
+    <meta charset="utf-8" />
+    <title>:: Ola Marine ::</title>
+    <link href="https://fonts.googleapis.com/css?family=Exo" rel="stylesheet">
+    <meta name="description" content="" />
+    <meta name="generator" content="" />
+    <meta name="robots" content="" />
+    <meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/ribbon.css" type="text/css" media="all" />
+    <!--[if IE 8]> <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script> <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script> <![endif]-->
+</head>
+
+<body id="index" class="header-style-1 tsp-body index hide-left-column hide-right-column lang_en">
+    <div id="tsp_wrapper">
+            <div id="tsp_header" class="style-2 gfont">
+                    <div id="tsp_header_top" class="wrap">
+                        <div class="container">
+                            <div class="warpper clearfix">
+                                <div class="header-left">
+                                        
+                                </div>
+                                <div class="header-right">
+                                    <div class="myaccount">
+                                        <a href="https://www.facebook.com/OlaMarineegypt/" target="_blank" class="text-white"><div class="tongle"><i class="fa fa-facebook-official" aria-hidden="true"></i></div></a>
+                                    </div>
+                                    <div class="myaccount">
+                                        <a href="https://twitter.com/olamarineeg" target="_blank" class="text-white"><div class="tongle"><i class="fa fa-twitter" aria-hidden="true"></i></div></a>
+                                    </div>
+                                    <div class="myaccount">
+                                        <a href="https://www.instagram.com/olamarine/" target="_blank" class="text-white"><div class="tongle"><i class="fa fa-instagram" aria-hidden="true"></i></div></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="tsp_menu" class="wrap">
+                        <div class="container">
+                            <div class="container-inner">
+                                <div class="row">
+                                    <div class="col-phone-12 col-md-2 no-padding">
+                                        <h1 id="logo"> <a href="index.html" title="Ola Marine"> <img class="maxwidthnone" src="images/logo.png" alt="Ola Marine" /> </a></h1></div>
+                                    <div class="menu_wrapper col-phone-12 col-xs-9 col-md-10">
+                                        <div id="tsp_mainnav">
+                                            <div id="tsp_custommenu" class="hidden-xs hidden-sm">
+                                                <ul class="mainnav">
+                                                    <li class="level0 custom-item"><a class="menu-title-lv0" href="index.html" title="Home"><span>Home</span></a></li>
+                                                    <li class="level0 custom-item"><a class="menu-title-lv0" href="about.html" title="Home"><span>About Us</span></a></li>
+                                                    <li class="level0 cat-item has-child"><a class="menu-title-lv0" href="products.html" title="Living"><span>Products</span></a>
+                                                        <div class="wrap_submenu">
+                                                            <ul class="level0">
+                                                                <li class="level1"><a class="menu-title-lv1" href="products.html" title="Sectionals"><span>Glassware</span></a></li>
+                                                                <li class="level1"><a class="menu-title-lv1" href="products.html" title="Loveseats"><span>Electronics</span></a></li>
+                                                                <li class="level1"><a class="menu-title-lv1" href="products.html" title="Recliners"><span>Furniture</span></a></li>
+                                                                <li class="level1"><a class="menu-title-lv1" href="products.html" title="Sectionals"><span>Mats</span></a></li>
+                                                                <li class="level1"><a class="menu-title-lv1" href="products.html" title="Loveseats"><span>Refrigerators</span></a></li>
+                                                                <li class="level1"><a class="menu-title-lv1" href="products.html" title="Recliners"><span>Sportstuff</span></a></li>
+                                                                <li class="level1"><a class="menu-title-lv1" href="products.html" title="Sectionals"><span>Tableware</span></a></li>
+                                                                <li class="level1"><a class="menu-title-lv1" href="products.html" title="Loveseats"><span>Textiles For Table</span></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li class="level0 custom-item"><a class="menu-title-lv0" href="collections.html" title="Home"><span>Collections</span></a></li>
+                                                    <li class="level0 custom-item"><a class="menu-title-lv0" href="offers.html" title="Home"><span>Offers</span></a></li>
+                                                    <li class="level0 custom-item"><a class="menu-title-lv0" href="news.html" title="Home"><span>News & Events</span></a></li>
+                                                    <li class="level0 custom-item"><a class="menu-title-lv0" href="contact.html" title="Home"><span>Contact Us</span></a></li>
+                                                </ul>
+                                            </div>
+                                            <div id="tsp_mommenu" class="menu-offcanvas hidden-md hidden-lg"> <span class="btn2 btn-navbar leftsidebar"> <i class="fa fa-align-left"></i> <span class="overlay"></span> </span> <span class="btn2 btn-navbar offcanvas"> <i class="fa fa-align-justify"></i> <span class="overlay"></span> </span> <span class="btn2 btn-navbar rightsidebar"> <i class="fa fa-align-right"></i> <span class="overlay"></span> </span>
+                                                <div id="menu_offcanvas" class="offcanvas"></div>
+                                            </div>
+                                            <div class="block-right">
+                                                <div class="search-action btn btn-color2"><i class="tpl-search"></i><i class="tpl-remove-long" style="display: none;"></i></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="tsp_topsearch" style="display: none;">
+                            <div class="container">
+                                <div id="search_block_top">
+                                    <form method="get" action="http://preview.tplsolution.com/tsp_ganzy/en/search" id="searchbox" class="form-search">
+                                        <div class="search_block_top_form">
+                                            <input type="hidden" name="controller" value="search" />
+                                            <input type="hidden" name="orderby" value="position" />
+                                            <input type="hidden" name="orderway" value="desc" />
+                                            <input class="search_query" type="text" id="search_query_top" name="search_query" placeholder="Search here..." />
+                                            <button class="button btn btn-default button-search" value="search" name="submit_search" type="submit"><i class="tpl-search"></i></button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        <div id="tsp_slideshow">
+            <div id="tsp_imgslide_796611526561572" class="tsp-slideimgs">
+                <div class="container">
+                    <div class="nav-container-wrap">
+                        <div class="nav-container"></div>
+                    </div>
+                </div>
+                <div class="slideimgs owl_loading">
+                    <div class="item" style="text-align: center; background: url(images/sl1.jpg) repeat scroll center center / cover rgba(0, 0, 0, 0)">
+                        <div class="slider-caption-relative">
+                          <div class="slider-caption">
+                             <h3>Unique Products</h3>
+                             <p>provide people with unique products to have the maximum fun when they are by the sea</p>
+                          </div>
+                        </div>
+
+                        <a href="#" title="TPL Solution"> <img src="images/1200x693.png" alt="TPL Solution"> </a>
+                    </div>
+                    <div class="item" style="text-align: center; background: url(images/sl2.jpg) repeat scroll center center / cover rgba(0, 0, 0, 0)">
+                        <div class="slider-caption-relative">
+                                <div class="slider-caption-right">
+                                   <h3>living lifestyle</h3>
+                                   <p>We are specialized shop in sea and boating Supplies</p>
+                                </div>
+                              </div>
+                        <a href="#" title="TPL Solution"> <img src="images/1200x693.png" alt="TPL Solution"> </a>
+                    </div>
+                    <div class="item" style="text-align: center; background: url(images/sl3.jpg) repeat scroll center center / cover rgba(0, 0, 0, 0)">
+                        <div class="slider-caption-relative">
+                                <div class="slider-caption">
+                                   <h3>Order Online</h3>
+                                   <p>You can make your order anytime need </p>
+                                </div>
+                              </div>
+                        <a href="#" title="TPL Solution"> <img src="images/1200x693.png" alt="TPL Solution"> </a>
+                    </div>
+                    <div class="item" style="text-align: center; background: url(images/sl4.jpg) repeat scroll center center / cover rgba(0, 0, 0, 0)">
+                        <div class="slider-caption-relative">
+                                <div class="slider-caption-right">
+                                   <h3>Free delivery</h3>
+                                   <p>Take a free delivery when you make order with your friend (Cairo & El Gouna)</p>
+                                </div>
+                              </div>
+                        <a href="#" title="TPL Solution"> <img src="images/1200x693.png" alt="TPL Solution"> </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="tsp_content" class="wrap">
+            <div id="columns" class="container">
+
+<div class="row col-md-12">
+        <div>
+                <h1>Who We Are</h1>
+                <p>Ola Marine founded in 2014 it has gone from strength to strength over the past 4 years. providing people with unique nautical accessories for comfort on board in tableware, kitchenware, cabinware ,water fun, nautical souvenirs, Marine Lighting Systems, Marine & Outdoor Cooling Refrigeration, outdoor living products and many other yacht supplies. All our collections are conceived and designed to make life on board more enjoyable and comfortable. And to take your outdoor living lifestyle to a new level </p>
+            </div>
+            <hr>
+</div>
+
+<div class="tsp-smartcode">
+        <div class='row'>
+            <div class='col-sm-12 col-xs-12'>
+                <div class="tsp-smartcode">
+                    <div id="tsp_hook_951531526561571" class="tsp-hook ">
+                        <div id="tsp_ourbrands" class="tsp_ourbrands">
+                            <div class="title-nav">
+                                <h3 class="block-title">Our Brands</h3>
+                                <div class="dot-container"></div>
+                            </div>
+                            <div class="our-partners owl-effect owl_loading">
+                                <div class="wrap">
+                                    <div class="wrap_in">
+                                        <a href="products.html"><img class="height65" src="images/brands/1.png" alt=""></a>
+                                    </div>
+                                </div>
+                                <div class="wrap">
+                                    <div class="wrap_in">
+                                            <a href="products.html"><img class="height65" src="images/brands/2.png" alt=""></a>
+                                    </div>
+                                </div>
+                                <div class="wrap">
+                                    <div class="wrap_in">
+                                            <a href="products.html"><img class="height65" src="images/brands/3.png" alt=""></a>
+                                    </div>
+                                </div>
+                                <div class="wrap">
+                                    <div class="wrap_in">
+                                            <a href="products.html"><img class="height65" src="images/brands/4.png" alt=""> </a>
+                                           
+                                    </div>
+                                </div>
+                                <div class="wrap">
+                                    <div class="wrap_in">
+                                            <a href="products.html"><img class="height65" src="images/brands/5.png" alt=""></a>
+                                    </div>
+                                </div>
+                                <div class="wrap">
+                                    <div class="wrap_in">
+                                            <a href="products.html"><img class="height65" src="images/brands/6.png" alt=""></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+                <div class="row">
+                    <div id="tsp_main" class="center_column col-xs-12 col-md-12">
+                        <div id="tsp_maintop"></div>
+                        <div id="tsp_mainmidle">
+                            <div id="center_column">
+                                <div id="homepage_row168751526561571" class="home-row">
+                                    <div class="tsp-smartcode">
+                                        <div style="height: 70px;" class="clearfix "></div>
+                                    </div>
+                                    <div class="tsp-smartcode">
+                                        <div id="tsp_hook_886521526561570" class="tsp-hook ">
+                                            <div id="tsp_producttabs" class="tabajax tsp-producttabs ">
+                                                <div class="title-nav tsp-pdt-nav">
+                                                    <h3 class="block-title">Our Categories</h3>
+                                                </div>
+                                                <div class="tsp-pdt-container tab-content">
+                                                    <div class="tab-content-inner tab-content-3 active tab-loaded">
+                                                        <div class="slideRight product_list products-grid grid row">
+                                                            <div class="ajax_block_product item item-animate col-xs-6 col-sm-4 col-md-3 col-lg-3 col-phone-12">
+                                                                <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                    <div class="prd">
+                                                                        <div class="item-img clearfix">
+                                                                            <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x" src="images/categories/glassware.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="item-info">
+                                                                            <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > Glassware </a></h4>
+                                                                            <p class="desc">The BALI water or wine glass is made of Tritan™</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="ajax_block_product item item-animate col-xs-6 col-sm-4 col-md-3 col-lg-3 col-phone-12">
+                                                                <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                    <div class="prd">
+                                                                        <div class="item-img clearfix">
+                                                                            <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x" src="images/categories/electronics.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="item-info">
+                                                                            <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > Electronics </a></h4>
+                                                                            <p class="desc">The BALI water glass, with an elegant design, is made from TRITAN ™</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="ajax_block_product item item-animate col-xs-6 col-sm-4 col-md-3 col-lg-3 col-phone-12">
+                                                                <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                    <div class="prd">
+                                                                        <div class="item-img clearfix">
+                                                                            <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x" src="images/categories/furniture.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="item-info">
+                                                                            <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > Furniture </a></h4>
+                                                                            <p class="desc">The REGATA wine glass is made of methylstyrene , a top quality</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="ajax_block_product item item-animate col-xs-6 col-sm-4 col-md-3 col-lg-3 col-phone-12">
+                                                                <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                    <div class="prd">
+                                                                        <div class="item-img clearfix">
+                                                                            <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x" src="images/categories/mats.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="item-info">
+                                                                            <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > Mats </a></h4>
+                                                                            <p class="desc">The REGATA beverage glass is made of MS, a top quality</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                                <div class="clearfix visible-xs"></div>
+                                                                <div class="clearfix visible-md"></div>
+                                                                <div class="clearfix visible-lg"></div>
+
+                                                                <div class="ajax_block_product item item-animate col-xs-6 col-sm-4 col-md-3 col-lg-3 col-phone-12">
+                                                                    <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                        <div class="prd">
+                                                                            <div class="item-img clearfix">
+                                                                                <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x" src="images/Categories/refrigerators.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="item-info">
+                                                                                <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > Refrigerators </a></h4>
+                                                                                <p class="desc">El set de vasos irrompibles apilables Sailor Soul, fabricados en MS</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="ajax_block_product item item-animate col-xs-6 col-sm-4 col-md-3 col-lg-3 col-phone-12">
+                                                                    <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                        <div class="prd">
+                                                                            <div class="item-img clearfix">
+                                                                                <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x" src="images/categories/sportstuff.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="item-info">
+                                                                                <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > Sportstuff </a></h4>
+                                                                                <p class="desc">The Moon wine glass is made of MS. Methylstyrene is a high quality material</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="ajax_block_product item item-animate col-xs-6 col-sm-4 col-md-3 col-lg-3 col-phone-12">
+                                                                    <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                        <div class="prd">
+                                                                            <div class="item-img clearfix">
+                                                                                <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x" src="images/categories/tableware.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="item-info">
+                                                                                <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > Tableware </a></h4>
+                                                                                <p class="desc">The Lux water glass is made of MS. Methylstyrene is a high quality material</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="ajax_block_product item item-animate col-xs-6 col-sm-4 col-md-3 col-lg-3 col-phone-12">
+                                                                    <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                        <div class="prd">
+                                                                            <div class="item-img clearfix">
+                                                                                <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x" src="images/categories/textiles-table.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="item-info">
+                                                                                <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > TEXTILES FOR TABLE </a></h4>
+                                                                                <p class="desc">Vibrant set of water glasss with a base in different colours</p>
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                        </div>
+                                                        <div class="button-load">
+                                                            <div class="tab-loadmore pdt-loadmore" data-id="3" data-catid="3" data-type="categories" data-rl_start="8" data-rl_total="15" data-rl_allready="All Ready" data-rl_load="4">
+                                                                    <div class="btn-loadmore">
+                                                                            <a href="categories.html"><div class="btn btn-color1">View More</div></a>
+                                                                    </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tsp-smartcode">
+                                        <div style="height: 70px;" class="clearfix "></div>
+                                    </div>
+                                    <div class="tsp-smartcode" style="display: none;">
+                                        <div id="tsp_scwrapper_149021526561571" class="tsp_scwrapper text-light">
+                                            <div class="tsp_scwrapper_bg" style="background-image: url(images/bg_1.jpg);background-repeat: repeat;background-attachment: fixed;background-position: center;background-size: cover;"></div>
+                                            <div class="tsp_scwrapper_content">
+                                                <div style="height: 70px;" class="clearfix "></div>
+                                                <div class='row'>
+                                                    <div class='col-sm-4'>
+                                                        <div class="service-box2">
+                                                            <a class="fa fa-laptop icon" href="#" title="Free Shipping Item" style="font-size: 30px"></a>
+                                                            <h4>Order Online</h4>
+                                                            <p>make your order online by call or you can send a message with your contact and we will return to you. <br><br></p>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-sm-4'>
+                                                        <div class="service-box2">
+                                                            <a class="fa fa-truck icon" href="#" title="30 day return policy" style="font-size: 30px"></a>
+                                                            <h4>Free delivery (Cairo & El Gouna)</h4>
+                                                            <p>You make your order with your friend and take a free delivery <br><br></p>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-sm-4'>
+                                                        <div class="service-box2">
+                                                            <a class="fa fa-sun-o icon" href="#" title="Accepting orders 24/7" style="font-size: 30px"></a>
+                                                            <h4>Variety products</h4>
+                                                            <p>We are specialized shop in sea and boating Supplies, Marine servicing and consultancy, all sea accessories <br><br></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div style="height: 70px;" class="clearfix "></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tsp-smartcode">
+                                        <div style="height: 70px;" class="clearfix "></div>
+                                    </div>
+
+                                    <div class="clearfix"></div>
+
+                                    <div id="tsp_productrelated" class="block tsp-slider tsp-specials tsp-tspproductspecials">
+                                        <div class="slider-inner">
+                                            <div class="title-nav">
+                                                <h3 class="block-title">Latest Collections</h3>
+                                                <div class="dot-container"></div>
+                                            </div>
+                                            <div class="container-block">
+                                                <div class="products-grid owl_loading">
+
+                                                    <div class="ajax_block_product item item-animate">
+                                                        <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                            <div class="prd">
+                                                                <div class="item-img clearfix">
+                                                                    <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x heightauto" src="images/products/index-collection1.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                    </a>
+                                                                </div>
+                                                                <div class="item-info">
+                                                                    <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > MISTRAL </a></h4>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="ajax_block_product item item-animate">
+                                                            <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                <div class="prd">
+                                                                    <div class="item-img clearfix">
+                                                                        <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x heightauto" src="images/products/index-collection2.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                        </a>
+                                                                    </div>
+                                                                    <div class="item-info">
+                                                                        <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > TOSCANA </a></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="ajax_block_product item item-animate">
+                                                                <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                    <div class="prd">
+                                                                        <div class="item-img clearfix">
+                                                                            <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x heightauto" src="images/products/index-collection3.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                            </a>
+                                                                        </div>
+                                                                        <div class="item-info">
+                                                                            <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > PARTY </a></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="ajax_block_product item item-animate">
+                                                                    <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                        <div class="prd">
+                                                                            <div class="item-img clearfix">
+                                                                                <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x heightauto" src="images/products/index-collection4.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="item-info">
+                                                                                <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > WINDPROOF </a></h4>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="ajax_block_product item item-animate">
+                                                                        <div class="item-inner" itemtype="http://schema.org/Product" itemscope="">
+                                                                            <div class="prd">
+                                                                                <div class="item-img clearfix">
+                                                                                    <a class="product-image" href="products.html" title="Aenean sodales" itemprop="url"> <span class="img-main"> <span class="primary_img"> <img class="replace-2x heightauto" src="images/products/index-collection5.jpg" alt="" itemprop="image" /> </span> </span>
+                                                                                    </a>
+                                                                                </div>
+                                                                                <div class="item-info">
+                                                                                    <h4 class="item-title"> <a class="product-name" href="products.html" title="Aenean sodales" itemprop="url" > TEAK </a></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+
+                                    <div class="tsp-smartcode" style="display: none;">
+                                        <div id="tsp_scwrapper_926801526561571" class="tsp_scwrapper text-light">
+                                            <div class="tsp_scwrapper_bg" style="background-image: url(images/bg_2.jpg);background-repeat: repeat;background-attachment: fixed;background-position: center center;background-size: cover;"></div>
+                                            <div class="tsp_scwrapper_content">
+                                                <div style="height: 70px;" class="clearfix "></div>
+                                                <div class="text-center">
+                                                    <h3 class="block-title center">STACKABLE WATER/WINE GLASS -COLOURS BASE, PARTY | <span class="text-success">50% SALE</span></h3>
+                                                    <p style="padding: 0 10%;">A practical stackable glass for water or wine with a base in six different colours that will enable you to save space and give each guest their own colour glass. MS is one of the most knock resistant materials in the sailing world and will make sure your meals are safe as well as stylish. </p>
+                                                    <a class="product-image" href="product-details.html" title="Aenean sodales" itemprop="url">  <span class="img-main"> <span class="primary_img"> <img class="replace-2x" src="images/products/index-prod17.jpg" alt="" itemprop="image"> </span> </span>
+                                                    </a>
+                                                    <br><br>
+                                                    <a class="btn btn-default" href="product-details.html">Shop now</a></div>
+                                                <div style="height: 70px;" class="clearfix "></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="tsp_mainbottom"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-top wrap" id="tsp_footer_top">
+            <div class="container">
+                <div class="hook_footer">
+                    <div class="tsp-toolbar" id="tsp_toolbar">
+                        <ul>
+                                <li> <span class="btn button scroll-top" title="Back to top"> <i class="fa fa-angle-up"></i> <span class="tool_label">Top</span> </span>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="block-subscribe-content">
+                        <form action="#" method="post">
+                            <div class="subscribe-title">
+                                <h3 class="block-title center">Newsletter</h3>
+                                <p>Subscribe now to get notified about exclusive offers from us every week!</p>
+                            </div>
+                            <div class="subscribe_form form-group">
+                                <div class="inner">
+                                    <div class="input-subscribe-wrap">
+                                        <div class="col-xs-8 col-sm-9">
+                                            <input class="inputNew form-control grey newsletter-input" id="newsletter-input" placeholder="Enter your e-mail" type="text" name="email" size="18" value="" />
+                                        </div>
+                                        <div class="col-xs-4 col-sm-3">
+                                            <button type="submit" name="submitNewsletter" class="btn btn-color2 button button-small">Subscribe</button>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" name="action" value="0" />
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="tsp_footer">
+            <div class="container">
+                <div class="row">
+                    <div class="column col-md-3 col-sm-6 col-xs-6 col-phone-12">
+                        <h3 class="block-title">About</h3>
+                        <p>Order Online..Free delivery (Cairo & El Gouna)
+                                One-stop shop for pool, beach & boating products. Taking your outdoor living lifestyle to a new level!</p>
+                    </div>
+                    <div class="column col-md-3 col-sm-6 col-xs-6 col-phone-12">
+                        <h3 class="block-title">Main Links</h3>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="contact.html">Contact Us</a></li>
+                        </ul>
+                    </div>
+                    <div class="clearfix visible-xs"></div>
+                    <div class="column col-md-3 col-sm-6 col-xs-6 col-phone-12">
+                        <h3 class="block-title">Other Links</h3>
+                        <ul>
+                            <li><a href="products.html">Products</a></li>
+                            <li><a href="offers.html">Offers</a></li>
+                            <li><a href="news.html">News & Events</a></li>
+                        </ul>
+                    </div>
+                    <div class="column col-md-3 col-sm-6 col-xs-6 col-phone-12">
+                        <h3 class="block-title">Contact Us</h3>
+                        <ul class="fa-ul">
+                            <li><em class="fa-li fa fa-home"> </em>El Gouna Abu Tig Marina
+                                Hurghada</li>
+                            <li><em class="fa-li fa fa-envelope"> </em><a href="mailto:info@olamarine.com">info@olamarine.com</a></li>
+                            <li><em class="fa-li fa fa-mobile"> </em>0122 316 9985</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="tsp_footer_bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <div class="tsp-copyright"> &copy; 2018 OLA MARINE | Designed & Developed by <a href="http://www.tekegy.com/" target="_blank" class="tplsolution tekcolor" title="">TEKEGY</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        /* <![CDATA[ */ ;
+        var CUSTOMIZE_TEXTFIELD = 1;
+        var FancyboxI18nClose = 'Close';
+        var FancyboxI18nNext = 'Next';
+        var FancyboxI18nPrev = 'Previous';
+        var KEEP_MENU = false;
+        var TSP_TOOLTIP = false;
+        var added_to_wishlist = 'Added to your wishlist.';
+        var ajax_allowed = true;
+        var ajaxsearch = true;
+        var baseDir = 'http://preview.tplsolution.com/tsp_ganzy/';
+        var baseUri = 'http://preview.tplsolution.com/tsp_ganzy/';
+        var comparator_max_item = 3;
+        var comparedProductsIds = [];
+        var contentOnly = false;
+        var customizationIdMessage = 'Customization #';
+        var delete_txt = 'Delete';
+        var displayList = false;
+        var freeProductTranslation = 'Free!';
+        var freeShippingTranslation = 'Free shipping!';
+        var generated_date = 1541324537;
+        var id_lang = 1;
+        var img_dir = 'http://preview.tplsolution.com/tsp_ganzy/themes/tsp_ganzy/img/';
+        var instantsearch = false;
+        var isGuest = 0;
+        var isLogged = 0;
+        var loggin_required = 'You must be logged in to manage your wishlist.';
+        var max_item = 'You cannot add more than 3 product(s) to the product comparison';
+        var min_item = 'Please select at least one product';
+        var mywishlist_url = 'login4602.html';
+        var page_name = 'index';
+        var placeholder_blocknewsletter = 'Enter your e-mail';
+        var priceDisplayMethod = 1;
+        var priceDisplayPrecision = 2;
+        var quickView = true;
+        var removingLinkText = 'remove this product from my cart';
+        var roundMode = 2;
+        var static_token = '0a620e729355e1613d673990fbd571a9';
+        var token = '6399aa7d6b5a43e06ee2714972f6744e';
+        var usingSecureMode = false;
+        var wishlistProductsIds = false; /* ]]> */
+    </script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/main2.js"></script>
+    <script type="text/javascript" src="js/main3.js"></script>
+    <script type="text/javascript" src="js/main4.js"></script>
+    <script type="text/javascript" src="js/main5.js"></script>
+    <script type="text/javascript" src="js/main6.js"></script>
+    <script type="text/javascript" src="js/main7.js"></script>
+    <script type="text/javascript" src="js/main8.js"></script>
+    <script type="text/javascript" src="js/main9.js"></script>
+    <script type="text/javascript" src="js/tsp-script.js"></script>
+    <script type="text/javascript">
+        /* <![CDATA[ */ ;
+        (window.gaDevIds = window.gaDevIds || []).push('d6YPbH');
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '../../../www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-67244989-4', 'auto');
+        ga('require', 'ec');;
+        jQuery(document).ready(function($) {
+            $('#menu_offcanvas').html($('#tsp_custommenu').html());
+            $('#tsp_mommenu').find('.wrap_dropdown.fullwidth').remove();
+            $('#tsp_mommenu').find('li > .wrap_submenu > ul').unwrap();
+            $('#menu_offcanvas').TspAccordion({
+                accordion: false,
+                expand: false,
+                el_content: 'ul, .wrap_submenu',
+                btn_open: '<i class="fa fa-plus"></i>',
+                btn_close: '<i class="fa fa-minus"></i>'
+            });
+            $('#tsp_mommenu .btn2.offcanvas').on('click', function() {
+                if ($('#menu_offcanvas').hasClass('active')) {
+                    $(this).find('.overlay').fadeOut(250);
+                    $('#menu_offcanvas').removeClass('active');
+                    $('body').removeClass('show-sidebar show-menumobile');
+                } else {
+                    $('#menu_offcanvas').addClass('active');
+                    $(this).find('.overlay').fadeIn(250);
+                    $('body').addClass('show-sidebar show-menumobile');
+                }
+            });
+        });;
+        $('#tsp_mainnav .search-action').on('click', function() {
+            $(this).find('i').toggle();
+            $('#tsp_topsearch').slideToggle();
+        });;
+        var moduleDir = "http://preview.tplsolution.com/tsp_ganzy/modules/tspquicksearch/";
+        $('document').ready(function() {
+            $("#search_query_top").autocompleteCustom(moduleDir + "tspquicksearch_ajax.php", {
+                container: $("#search_block_top"),
+                minChars: 3,
+                max: 9,
+                width: 300,
+                selectFirst: false,
+                scroll: false,
+                dataType: "json",
+                formatItem: function(data, i, max, value, term) {
+                    return value;
+                },
+                parse: function(data) {
+                    var mytab = new Array();
+                    for (var i = 0; i < data.length; i++) {
+                        if (i == 5) {
+                            var keyword = $("#search_query_top").val();
+                            data[i].pname = 'more_link';
+                            data[i].product_link = keyword;
+                            mytab[mytab.length] = {
+                                data: data[i],
+                                value: '<span class="ac_more_link button"><span></span></span>'
+                            };
+                            return mytab;
+                        } else {
+                            if (data[i].pname.length > 35) {
+                                var pname = jQuery.trim(data[i].pname).substring(0, 35).split(" ").slice(0, -1).join(" ") + "...";
+                            } else {
+                                var pname = data[i].pname;
+                            }
+                            mytab[mytab.length] = {
+                                data: data[i],
+                                value: '<img src="' + data[i].product_image + '" alt="' + data[i].pname + '" />' + '<p class="ac_product_info"><span class="ac_product_name">' + data[i].pname + '</span>' + '<br /><span class="ac_cat_name">' + data[i].cname + ' > ' + pname + '</span></p>'
+                            };
+                        }
+                    }
+                    return mytab;
+                },
+                extraParams: {
+                    ajaxSearch: 1,
+                    id_lang: 1
+                }
+            }).result(function(event, data, formatted) {
+                if (data.pname == 'more_link') {
+                    $('#search_query_top').val(data.product_link);
+                    $('#searchbox').submit();
+                } else {
+                    $('#search_query_top').val(data.pname);
+                    document.location.href = data.product_link;
+                }
+            })
+        });;
+        $(window).load(function() {
+            var owl = $('#tsp_imgslide_796611526561572 .slideimgs');
+            var owl_options = {
+                items: 1,
+                margin: 0,
+                loop: true,
+                nav: true,
+                navContainer: '#tsp_imgslide_796611526561572 .nav-container',
+                navText: ['<i class="tpl-arrow-left-circle"></i>', '<i class="tpl-arrow-right-circle"></i>'],
+                dots: true,
+                stagePadding: 0,
+                smartSpeed: 450,
+                animateIn: 'fadeIn',
+                animateOut: 'fadeOut',
+                autoplay: true,
+                autoplayTimeout: 7000,
+                autoplayHoverPause: false,
+            };
+            owl.owlCarousel(owl_options);
+            owl.removeClass('owl_loading');
+            $('[name="TSP_GZYCP_LAYOUTTYPE"]').on('change', function() {
+                owl.trigger('destroy.owl.carousel').removeClass('owl-carousel owl-loaded');
+                owl.find('.owl-stage-outer').children().unwrap();
+                owl.owlCarousel(owl_options);
+            });
+            $('#tsp_imgslide_796611526561572 .nav-container').css('top', $('#tsp_imgslide_796611526561572').outerHeight() / 2);
+        });
+        $(window).resize(function() {
+            setTimeout(function() {
+                $('#tsp_imgslide_796611526561572 .nav-container').css('top', $('#tsp_imgslide_796611526561572').outerHeight() / 2);
+            }, 300);
+        });;
+        jQuery(document).ready(function($) {
+            function setAnimate(el) {
+                $_items = $('.item-animate', el);
+                $('.tab-loadmore', el).fadeOut('fast');
+                $_items.each(function(i) {
+                    $(this).attr("style", "-webkit-animation-delay:" + i * 300 + "ms;" + "-moz-animation-delay:" + i * 300 + "ms;" + "-o-animation-delay:" + i * 300 + "ms;" + "animation-delay:" + i * 300 + "ms;");
+                    if (i == $_items.size() - 1) {
+                        $(".product_list", el).addClass("play");
+                        $('.tab-loadmore', el).fadeIn(i * 0.3);
+                    }
+                });
+            }
+
+            function setAnimated(el) {
+                $(".product_list", el).removeClass("play");
+                $('.item', el).removeAttr('style');
+                $('.item', el).addClass('animated').removeClass('item-animate');
+            }
+
+            function removeAnimate(el) {
+                $(".product_list", el).removeClass("play");
+                $('.item', el).removeClass('animated').addClass('item-animate').removeAttr('style');
+            }
+            setAnimate($('.tab-content-inner.active'));;
+            (function(el) {
+                var $el = $(el),
+                    $tab = $('.tab', $el),
+                    $tab_content = $('.tab-content', $el),
+                    $tab_content_inner = $('.tab-content-inner', $tab_content);
+                $tab.on('click.tab_cat', function() {
+                    var $this = $(this);
+                    if ($this.hasClass('active')) return;
+                    removeAnimate($tab_content);
+                    $tab.removeClass('active');
+                    $this.addClass('active');
+                    var id_tab = $this.attr('data-id'),
+                        $tab_content_active = $('.tab-content-' + id_tab, $el);
+                    $tab_content_inner.removeClass('active');
+                    $tab_content_active.addClass('active');
+                    var $loading = $('.process-loading', $tab_content_active);
+                    var loaded = $tab_content_active.hasClass('ltabs-items-loaded');
+                    if (!$this.hasClass('tab-loaded') && !$this.hasClass('tab-process')) {
+                        $this.addClass('tab-process');
+                        $loading.show();
+                        ajax_url = baseDir + 'modules/tspproducttabs/tspproducttabs-ajax.php';
+                        $.ajax({
+                            type: 'POST',
+                            url: ajax_url,
+                            data: {
+                                module_name: 'tspproducttabs',
+                                is_ajax: 1,
+                                ajax_start: 0,
+                                categoryid: $this.attr('data-catid'),
+                                data_type: $this.attr('data-type')
+                            },
+                            success: function(data) {
+                                if (data.productList != '') {
+                                    $(data.productList).insertBefore($('.tab-loadmore', $tab_content_active));
+                                    $this.addClass('tab-loaded').removeClass('tab-process');
+                                    $loading.remove();
+                                    setAnimate($tab_content_active);
+                                } else {
+                                    $('<p class="alert alert-info">There are no products matching to show.</p>').insertBefore($('.button-load', $tab_content_active));
+                                    $('.button-load', $tab_content_active).remove();
+                                    $loading.remove();
+                                }
+                            },
+                            dataType: 'json'
+                        });
+                    } else {
+                        setAnimate($('.tab-content-inner.active', $el));
+                    }
+                });
+                var $btn_loadmore = $('.ltabs-loadmore-btn ', $el);
+                $btn_loadmore.on('click.loadmore', function() {
+                    var $this = $(this);
+                    if ($this.hasClass('loaded') || $this.hasClass('loading')) {
+                        return false;
+                    } else {
+                        $this.addClass('loading');
+                        $this.attr('data-label-load', 'Loading...');
+                        var tab_content_active = $this.parents('.tab-content-inner').filter('.active');
+                        $('.item', tab_content_active).addClass('animated').removeClass('item-animate');
+                        ajax_url = baseDir + 'modules/tspproducttabs/tspproducttabs-ajax.php';
+                        $.ajax({
+                            type: 'POST',
+                            url: ajax_url,
+                            data: {
+                                module_name: 'tspproducttabs',
+                                is_ajax: 1,
+                                ajax_start: $this.parents('.pdt-loadmore').attr('data-rl_start'),
+                                categoryid: $this.parents('.pdt-loadmore').attr('data-catid'),
+                                data_type: $this.parents('.pdt-loadmore').attr('data-type'),
+                                nbload: $this.parents('.pdt-loadmore').attr('data-rl_load')
+                            },
+                            success: function(data) {
+                                if (data.productList != '') {
+                                    $(data.productList).children().insertAfter($('.product_list > .item', tab_content_active).nextAll().last());
+                                    updateStatus(tab_content_active);
+                                    setAnimate(tab_content_active);
+                                }
+                            },
+                            dataType: 'json'
+                        });
+                    }
+                    return false;
+                });
+
+                function updateStatus($el) {
+                    var $btn_loadmore = $('.ltabs-loadmore-btn ', $el);
+                    $btn_loadmore.removeClass('loading');
+                    var countitem = $('.product_list > .item', $el).length;
+                    $btn_loadmore.parents('.pdt-loadmore').attr('data-rl_start', countitem);
+                    var rl_total = $btn_loadmore.parents('.pdt-loadmore').attr('data-rl_total');
+                    var rl_load = $btn_loadmore.parents('.pdt-loadmore').attr('data-rl_load');
+                    var rl_allready = $btn_loadmore.parents('.pdt-loadmore').attr('data-rl_allready');
+                    if (countitem >= rl_total) {
+                        $btn_loadmore.addClass('loaded');
+                        $btn_loadmore.attr('data-label-load', 'All ready');
+                    } else {
+                        $btn_loadmore.attr('data-label-load', 'Load more');
+                    }
+                }
+            })('#tsp_producttabs');
+        });;
+        $(window).on('load resize', function() {
+            var offset_l = $('#tsp_scwrapper_149021526561571').offset().left;
+            var wrap_offset_l = $('#tsp_wrapper').offset().left;
+            var left = offset_l - wrap_offset_l;
+            $('#tsp_scwrapper_149021526561571 .tsp_scwrapper_bg').css({
+                'left': -left,
+                'width': $('#tsp_wrapper').outerWidth()
+            });
+        });
+        $(document).ready(function() {
+            $('[name="TSP_GZYCP_LAYOUTTYPE"]').on('change', function() {
+                var offset_l = $('#tsp_scwrapper_149021526561571').offset().left;
+                var wrap_offset_l = $('#tsp_wrapper').offset().left;
+                var left = offset_l - wrap_offset_l;
+                $('#tsp_scwrapper_149021526561571 .tsp_scwrapper_bg').css({
+                    'left': -left,
+                    'width': $('#tsp_wrapper').outerWidth()
+                });
+            });
+        });;
+        jQuery(document).ready(function($) {
+            $('.prds_288011526561571').owlCarousel({
+                loop: true,
+                responsiveClass: true,
+                nav: false,
+                dots: true,
+                items: 4,
+                margin: 30,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    480: {
+                        items: 2
+                    },
+                    768: {
+                        items: 4
+                    },
+                    992: {
+                        items: 4
+                    },
+                    1200: {
+                        items: 4
+                    }
+                }
+            });
+            $('.prds_288011526561571').removeClass('owl_loading');
+        });;
+        jQuery(document).ready(function($) {
+            $('#tsp_productrelated div.products-grid').owlCarousel({
+                loop: true,
+                responsiveClass: true,
+                nav: false,
+                dots: true,
+                items: 4,
+                margin: 30,
+                dotsContainer: '#tsp_productrelated .dot-container',
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    480: {
+                        items: 2
+                    },
+                    768: {
+                        items: 3
+                    },
+                    992: {
+                        items: 4
+                    },
+                    1200: {
+                        items: 4
+                    }
+                }
+            });
+            $('#tsp_productrelated div.products-grid').removeClass('owl_loading');
+        });;
+        jQuery(document).ready(function($) {;
+            (function(el) {
+                var $el = $(el),
+                    $tab = $('.tab', $el),
+                    $tab_content = $('.tab-content', $el),
+                    $tab_content_inner = $('.tab-content-inner', $tab_content);
+                $tab.on('click.tab_cat', function() {
+                    var $this = $(this);
+                    if ($this.hasClass('active')) return;
+                    $tab.removeClass('active');
+                    $this.addClass('active');
+                    var id_tab = $this.attr('data-id'),
+                        $tab_content_active = $('.tab-content-' + id_tab, $el);
+                    $tab_content_inner.removeClass('active').css({
+                        'overflow': 'hidden',
+                        'height': '0'
+                    });
+                    $tab_content_active.addClass('active').css({
+                        'overflow': '',
+                        'height': ''
+                    });
+                    var $loading = $('.process-loading', $tab_content_active);
+                    var loaded = $tab_content_active.hasClass('ltabs-items-loaded');
+                    if (!$this.hasClass('tab-loaded') && !$this.hasClass('tab-process')) {
+                        $this.addClass('tab-process');
+                        $loading.show();
+                        ajax_url = baseDir + 'modules/tspproducttabsslider/tspproducttabsslider-ajax.php';
+                        $.ajax({
+                            type: 'POST',
+                            url: ajax_url,
+                            data: {
+                                module_name: 'tspproducttabsslider',
+                                is_ajax: 1,
+                                ajax_start: 0,
+                                categoryid: $this.attr('data-catid'),
+                                data_type: $this.attr('data-type')
+                            },
+                            success: function(data) {
+                                if (data.productList != '') {
+                                    $(data.productList).insertBefore($loading);
+                                    $this.addClass('tab-loaded').removeClass('tab-process');
+                                    $loading.remove();
+                                } else {
+                                    $('<p class="alert alert-info">There are no products matching to show.</p>').insertBefore($loading);
+                                    $loading.remove();
+                                }
+                            },
+                            dataType: 'json'
+                        });
+                    }
+                });
+            })('#tsp_producttabsslider');
+        });;
+        $(window).on('load resize', function() {
+            var offset_l = $('#tsp_scwrapper_926801526561571').offset().left;
+            var wrap_offset_l = $('#tsp_wrapper').offset().left;
+            var left = offset_l - wrap_offset_l;
+            $('#tsp_scwrapper_926801526561571 .tsp_scwrapper_bg').css({
+                'left': -left,
+                'width': $('#tsp_wrapper').outerWidth()
+            });
+        });
+        $(document).ready(function() {
+            $('[name="TSP_GZYCP_LAYOUTTYPE"]').on('change', function() {
+                var offset_l = $('#tsp_scwrapper_926801526561571').offset().left;
+                var wrap_offset_l = $('#tsp_wrapper').offset().left;
+                var left = offset_l - wrap_offset_l;
+                $('#tsp_scwrapper_926801526561571 .tsp_scwrapper_bg').css({
+                    'left': -left,
+                    'width': $('#tsp_wrapper').outerWidth()
+                });
+            });
+        });;
+        jQuery(document).ready(function($) {
+            $('#tsp_latestblog .list-blog').owlCarousel({
+                loop: true,
+                responsiveClass: true,
+                nav: false,
+                dots: true,
+                items: 1,
+                dotsContainer: '#tsp_latestblog .dot-container',
+                margin: 30,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    480: {
+                        items: 2
+                    },
+                    768: {
+                        items: 3
+                    },
+                    992: {
+                        items: 3
+                    }
+                }
+            });
+            $('#tsp_latestblog .list-blog').removeClass('owl_loading');
+        });;
+        jQuery(window).load(function() {
+            var owl = $('#tsp_testimonials .our_testimonials');
+            var owl_options = {
+                loop: true,
+                nav: true,
+                responsiveClass: true,
+                items: 1,
+                navContainer: '#tsp_testimonials .nav-container',
+                navText: ['<i class="tpl-arrow-left-circle"></i>', '<i class="tpl-arrow-right-circle"></i>'],
+                animateIn: 'fadeIn',
+                animateOut: 'fadeOut',
+            };
+            owl.owlCarousel(owl_options);
+            owl.removeClass('owl_loading');
+        });;
+        jQuery(window).load(function() {
+            $('#tsp_ourbrands .our-partners').owlCarousel({
+                loop: true,
+                responsiveClass: true,
+                nav: false,
+                dots: true,
+                items: 1,
+                margin: 30,
+                dotsContainer: '#tsp_ourbrands .dot-container',
+                responsive: {
+                    0: {
+                        items: 2
+                    },
+                    480: {
+                        items: 2
+                    },
+                    768: {
+                        items: 3
+                    },
+                    992: {
+                        items: 5
+                    },
+                    1200: {
+                        items: 5
+                    }
+                }
+            });
+            $('#tsp_ourbrands .our-partners').removeClass('owl_loading');
+        });;
+        $('#tsp_toolbar .scroll-top').click(function() {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+        $('#tsp_toolbar .btn.qr-code').click(function() {
+            $('#tsp_toolbar .qr-link').toggle();
+            return false;
+        });
+        $('#tsp_toolbar .qr-link').click(function(e) {
+            e.preventDefault();
+            $(this).hide();
+        });
+        $('#tsp_toolbar .btn-tsptoolbar').on('click', function() {
+            if ($(this).hasClass('showall')) {
+                $.cookie('TSP_TOOLBAR_DISPLAY', '1', {
+                    path: '/'
+                });
+            } else {
+                $.cookie('TSP_TOOLBAR_DISPLAY', '0', {
+                    path: '/'
+                });
+            }
+            $('#tsp_toolbar li').toggle();
+            return false;
+        });;
+        ga('send', 'pageview');;
+        (function($) {
+            $("#tspcpl_themecolor").minicolors({
+                position: "bottom right",
+                changeDelay: 200,
+                theme: "bootstrap"
+            });
+        })(jQuery);;
+        (function($) {
+            $("#tspcpl_themecolor2").minicolors({
+                position: "bottom right",
+                changeDelay: 200,
+                theme: "bootstrap"
+            });
+        })(jQuery);;
+        (function($) {
+            $("#tspcpl_bodycolor").minicolors({
+                position: "top right",
+                changeDelay: 200,
+                theme: "bootstrap"
+            });
+        })(jQuery);;
+        $(document).on('ready ajaxComplete', function() {
+            $('.countdown').each(function() {
+                var enddate = $(this).attr('data-endtime');
+                if (enddate) {
+                    var enddateArr = enddate.split(',');
+                    $(this).countdown({
+                        until: new Date(enddateArr[0], enddateArr[1] - 1, enddateArr[2], enddateArr[3], enddateArr[4], enddateArr[5]),
+                        labels: ["Years", "Months", "Weeks", "Days", "Hrs", "Mins", "Secs"],
+                        labels1: ["Year", "Month", "Week", "Day", "Hr", "Min", "Sec"]
+                    });
+                }
+            });
+        }); /* ]]> */
+    </script>
+</body>
+
+</html>
